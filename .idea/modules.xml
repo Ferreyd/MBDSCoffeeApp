@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
-    <modules />
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MBDSCoffeeApp/MBDSCoffeeApp.iml" filepath="$PROJECT_DIR$/MBDSCoffeeApp/MBDSCoffeeApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MBDSCoffeeBackend/MBDSCoffeeBackend.iml" filepath="$PROJECT_DIR$/MBDSCoffeeBackend/MBDSCoffeeBackend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MBDSCoffeeBackend/MBDSCoffeeBackend-grailsPlugins.iml" filepath="$PROJECT_DIR$/MBDSCoffeeBackend/MBDSCoffeeBackend-grailsPlugins.iml" />
+    </modules>
   </component>
 </project>
 
