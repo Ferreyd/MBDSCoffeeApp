@@ -1,0 +1,302 @@
+2014-10-28 10:50:16,409 [localhost-startStop-1] ERROR StackTrace  - Full Stack Trace:
+Assertion failed: 
+
+assert User.count() == 1
+            |       |
+            2       false
+
+	at org.codehaus.groovy.runtime.InvokerHelper.assertFailed(InvokerHelper.java:398)
+	at org.codehaus.groovy.runtime.ScriptBytecodeAdapter.assertFailed(ScriptBytecodeAdapter.java:646)
+	at BootStrap$_closure1.doCall(BootStrap.groovy:20)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:90)
+	at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:233)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1085)
+	at groovy.lang.ExpandoMetaClass.invokeMethod(ExpandoMetaClass.java:1110)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:909)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:959)
+	at groovy.lang.ExpandoMetaClass.invokeMethod(ExpandoMetaClass.java:1110)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:909)
+	at groovy.lang.Closure.call(Closure.java:423)
+	at groovy.lang.Closure.call(Closure.java:417)
+	at grails.util.Environment.evaluateEnvironmentSpecificBlock(Environment.java:327)
+	at grails.util.Environment.executeForEnvironment(Environment.java:320)
+	at grails.util.Environment.executeForCurrentEnvironment(Environment.java:296)
+	at org.codehaus.groovy.grails.commons.DefaultGrailsBootstrapClass.callInit(DefaultGrailsBootstrapClass.java:60)
+	at org.codehaus.groovy.grails.web.context.GrailsConfigUtils.executeGrailsBootstraps(GrailsConfigUtils.java:78)
+	at org.codehaus.groovy.grails.web.context.GrailsContextLoaderListener.initWebApplicationContext(GrailsContextLoaderListener.java:110)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4973)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5467)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2014-10-28 10:50:16,411 [localhost-startStop-1] ERROR StackTrace  - Full Stack Trace:
+Assertion failed: 
+
+assert User.count() == 1
+            |       |
+            2       false
+
+	at BootStrap$_closure1.doCall(BootStrap.groovy:20)
+	at grails.util.Environment.evaluateEnvironmentSpecificBlock(Environment.java:327)
+	at grails.util.Environment.executeForEnvironment(Environment.java:320)
+	at grails.util.Environment.executeForCurrentEnvironment(Environment.java:296)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2014-10-28 10:50:16,411 [localhost-startStop-1] ERROR StackTrace  - Full Stack Trace:
+Assertion failed: 
+
+assert User.count() == 1
+            |       |
+            2       false
+
+	at BootStrap$_closure1.doCall(BootStrap.groovy:20)
+	at grails.util.Environment.evaluateEnvironmentSpecificBlock(Environment.java:327)
+	at grails.util.Environment.executeForEnvironment(Environment.java:320)
+	at grails.util.Environment.executeForCurrentEnvironment(Environment.java:296)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2014-10-28 10:50:16,412 [localhost-startStop-1] ERROR StackTrace  - Full Stack Trace:
+Assertion failed: 
+
+assert User.count() == 1
+            |       |
+            2       false
+
+	at BootStrap$_closure1.doCall(BootStrap.groovy:20)
+	at grails.util.Environment.evaluateEnvironmentSpecificBlock(Environment.java:327)
+	at grails.util.Environment.executeForEnvironment(Environment.java:320)
+	at grails.util.Environment.executeForCurrentEnvironment(Environment.java:296)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2014-10-28 10:50:16,412 [localhost-startStop-1] ERROR StackTrace  - Full Stack Trace:
+Assertion failed: 
+
+assert User.count() == 1
+            |       |
+            2       false
+
+	at BootStrap$_closure1.doCall(BootStrap.groovy:20)
+	at grails.util.Environment.evaluateEnvironmentSpecificBlock(Environment.java:327)
+	at grails.util.Environment.executeForEnvironment(Environment.java:320)
+	at grails.util.Environment.executeForCurrentEnvironment(Environment.java:296)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2014-10-28 10:50:16,412 [localhost-startStop-1] ERROR StackTrace  - Full Stack Trace:
+Assertion failed: 
+
+assert User.count() == 1
+            |       |
+            2       false
+
+	at BootStrap$_closure1.doCall(BootStrap.groovy:20)
+	at grails.util.Environment.evaluateEnvironmentSpecificBlock(Environment.java:327)
+	at grails.util.Environment.executeForEnvironment(Environment.java:320)
+	at grails.util.Environment.executeForCurrentEnvironment(Environment.java:296)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2014-10-28 10:51:19,217 [localhost-startStop-1] ERROR StackTrace  - Full Stack Trace:
+Assertion failed: 
+
+assert User.count() == 1
+            |       |
+            2       false
+
+	at org.codehaus.groovy.runtime.InvokerHelper.assertFailed(InvokerHelper.java:398)
+	at org.codehaus.groovy.runtime.ScriptBytecodeAdapter.assertFailed(ScriptBytecodeAdapter.java:646)
+	at BootStrap$_closure1.doCall(BootStrap.groovy:20)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:90)
+	at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:233)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1085)
+	at groovy.lang.ExpandoMetaClass.invokeMethod(ExpandoMetaClass.java:1110)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:909)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:959)
+	at groovy.lang.ExpandoMetaClass.invokeMethod(ExpandoMetaClass.java:1110)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:909)
+	at groovy.lang.Closure.call(Closure.java:423)
+	at groovy.lang.Closure.call(Closure.java:417)
+	at grails.util.Environment.evaluateEnvironmentSpecificBlock(Environment.java:327)
+	at grails.util.Environment.executeForEnvironment(Environment.java:320)
+	at grails.util.Environment.executeForCurrentEnvironment(Environment.java:296)
+	at org.codehaus.groovy.grails.commons.DefaultGrailsBootstrapClass.callInit(DefaultGrailsBootstrapClass.java:60)
+	at org.codehaus.groovy.grails.web.context.GrailsConfigUtils.executeGrailsBootstraps(GrailsConfigUtils.java:78)
+	at org.codehaus.groovy.grails.web.context.GrailsContextLoaderListener.initWebApplicationContext(GrailsContextLoaderListener.java:110)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4973)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5467)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2014-10-28 10:51:19,218 [localhost-startStop-1] ERROR StackTrace  - Full Stack Trace:
+Assertion failed: 
+
+assert User.count() == 1
+            |       |
+            2       false
+
+	at BootStrap$_closure1.doCall(BootStrap.groovy:20)
+	at grails.util.Environment.evaluateEnvironmentSpecificBlock(Environment.java:327)
+	at grails.util.Environment.executeForEnvironment(Environment.java:320)
+	at grails.util.Environment.executeForCurrentEnvironment(Environment.java:296)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2014-10-28 10:51:19,219 [localhost-startStop-1] ERROR StackTrace  - Full Stack Trace:
+Assertion failed: 
+
+assert User.count() == 1
+            |       |
+            2       false
+
+	at BootStrap$_closure1.doCall(BootStrap.groovy:20)
+	at grails.util.Environment.evaluateEnvironmentSpecificBlock(Environment.java:327)
+	at grails.util.Environment.executeForEnvironment(Environment.java:320)
+	at grails.util.Environment.executeForCurrentEnvironment(Environment.java:296)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2014-10-28 10:51:19,219 [localhost-startStop-1] ERROR StackTrace  - Full Stack Trace:
+Assertion failed: 
+
+assert User.count() == 1
+            |       |
+            2       false
+
+	at BootStrap$_closure1.doCall(BootStrap.groovy:20)
+	at grails.util.Environment.evaluateEnvironmentSpecificBlock(Environment.java:327)
+	at grails.util.Environment.executeForEnvironment(Environment.java:320)
+	at grails.util.Environment.executeForCurrentEnvironment(Environment.java:296)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2014-10-28 10:51:19,219 [localhost-startStop-1] ERROR StackTrace  - Full Stack Trace:
+Assertion failed: 
+
+assert User.count() == 1
+            |       |
+            2       false
+
+	at BootStrap$_closure1.doCall(BootStrap.groovy:20)
+	at grails.util.Environment.evaluateEnvironmentSpecificBlock(Environment.java:327)
+	at grails.util.Environment.executeForEnvironment(Environment.java:320)
+	at grails.util.Environment.executeForCurrentEnvironment(Environment.java:296)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2014-10-28 10:51:19,219 [localhost-startStop-1] ERROR StackTrace  - Full Stack Trace:
+Assertion failed: 
+
+assert User.count() == 1
+            |       |
+            2       false
+
+	at BootStrap$_closure1.doCall(BootStrap.groovy:20)
+	at grails.util.Environment.evaluateEnvironmentSpecificBlock(Environment.java:327)
+	at grails.util.Environment.executeForEnvironment(Environment.java:320)
+	at grails.util.Environment.executeForCurrentEnvironment(Environment.java:296)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2014-10-28 10:58:50,647 [Thread-13] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getPropertyValue() on null object
+	at org.codehaus.groovy.runtime.NullObject.invokeMethod(NullObject.java:88)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaClassSite.call(PogoMetaClassSite.java:45)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:45)
+	at org.codehaus.groovy.runtime.callsite.NullCallSite.call(NullCallSite.java:32)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:45)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:120)
+	at ScaffoldingGrailsPlugin.configureScaffoldingController(ScaffoldingGrailsPlugin.groovy:120)
+	at ScaffoldingGrailsPlugin.this$2$configureScaffoldingController(ScaffoldingGrailsPlugin.groovy)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springsource.loaded.ri.OriginalClassInvoker.invoke(OriginalClassInvoker.java:47)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1299)
+	at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:90)
+	at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:233)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1085)
+	at groovy.lang.ExpandoMetaClass.invokeMethod(ExpandoMetaClass.java:1110)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:909)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1030)
+	at groovy.lang.ExpandoMetaClass.invokeMethod(ExpandoMetaClass.java:1110)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:909)
+	at org.codehaus.groovy.runtime.callsite.PogoMetaClassSite.callCurrent(PogoMetaClassSite.java:66)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallCurrent(CallSiteArray.java:49)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:133)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callCurrent(AbstractCallSite.java:149)
+	at ScaffoldingGrailsPlugin$_closure3.doCall(ScaffoldingGrailsPlugin.groovy:105)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.springsource.loaded.ri.OriginalClassInvoker.invoke(OriginalClassInvoker.java:47)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1299)
+	at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:90)
+	at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:233)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1085)
+	at groovy.lang.ExpandoMetaClass.invokeMethod(ExpandoMetaClass.java:1110)
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:909)
+	at groovy.lang.Closure.call(Closure.java:423)
+	at ScaffoldingGrailsPlugin$_closure3.call(ScaffoldingGrailsPlugin.groovy)
+	at org.codehaus.groovy.grails.plugins.DefaultGrailsPlugin.invokeOnChangeListener(DefaultGrailsPlugin.java:767)
+	at org.codehaus.groovy.grails.plugins.DefaultGrailsPlugin.notifyOfEvent(DefaultGrailsPlugin.java:716)
+	at org.codehaus.groovy.grails.plugins.DefaultGrailsPluginManager.informObservers(DefaultGrailsPluginManager.java:242)
+	at org.codehaus.groovy.grails.plugins.DefaultGrailsPlugin.notifyOfEvent(DefaultGrailsPlugin.java:732)
+	at org.codehaus.groovy.grails.plugins.AbstractGrailsPluginManager.informOfClassChange(AbstractGrailsPluginManager.java:408)
+	at org.codehaus.groovy.grails.plugins.AbstractGrailsPluginManager.informOfFileChange(AbstractGrailsPluginManager.java:366)
+	at org.codehaus.groovy.grails.project.compiler.GrailsProjectWatcher.informPluginManager(GrailsProjectWatcher.java:226)
+	at org.codehaus.groovy.grails.project.compiler.GrailsProjectWatcher.access$400(GrailsProjectWatcher.java:48)
+	at org.codehaus.groovy.grails.project.compiler.GrailsProjectWatcher$1.onNew(GrailsProjectWatcher.java:152)
+	at org.codehaus.groovy.grails.compiler.AbstractDirectoryWatcher.fireOnNew(AbstractDirectoryWatcher.java:76)
+	at org.codehaus.groovy.grails.compiler.PollingDirectoryWatcher.cacheFilesForDirectory(PollingDirectoryWatcher.java:107)
+	at org.codehaus.groovy.grails.compiler.PollingDirectoryWatcher.checkForNewFiles(PollingDirectoryWatcher.java:87)
+	at org.codehaus.groovy.grails.compiler.PollingDirectoryWatcher.run(PollingDirectoryWatcher.java:45)
+	at org.codehaus.groovy.grails.compiler.DirectoryWatcher.run(DirectoryWatcher.java:160)
+	at org.codehaus.groovy.grails.project.compiler.GrailsProjectWatcher.run(GrailsProjectWatcher.java:161)
+2014-10-28 10:58:50,648 [Thread-13] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getPropertyValue() on null object
+	at ScaffoldingGrailsPlugin.configureScaffoldingController(ScaffoldingGrailsPlugin.groovy:120)
+	at ScaffoldingGrailsPlugin$_closure3.doCall(ScaffoldingGrailsPlugin.groovy:105)
+2014-10-28 10:58:50,649 [Thread-13] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getPropertyValue() on null object
+	at ScaffoldingGrailsPlugin.configureScaffoldingController(ScaffoldingGrailsPlugin.groovy:120)
+	at ScaffoldingGrailsPlugin$_closure3.doCall(ScaffoldingGrailsPlugin.groovy:105)
+2014-10-28 10:58:50,649 [Thread-13] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getPropertyValue() on null object
+	at ScaffoldingGrailsPlugin.configureScaffoldingController(ScaffoldingGrailsPlugin.groovy:120)
+	at ScaffoldingGrailsPlugin$_closure3.doCall(ScaffoldingGrailsPlugin.groovy:105)
